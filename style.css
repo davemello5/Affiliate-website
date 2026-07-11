@@ -277,3 +277,13 @@ resize:vertical;
 .contact-form button{
 align-self:center;
                                 }
+footer a{
+color:#4fc3f7;
+text-decoration:none;
+margin:0 8px;
+font-weight:bold;
+}
+
+footer a:hover{
+text-decoration:underline;
+   }
