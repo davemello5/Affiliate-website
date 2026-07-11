@@ -231,3 +231,26 @@ nav ul li{
     cursor:pointer;
     margin-left:10px;
    }
+.newsletter{
+text-align:center;
+margin-top:30px;
+}
+
+.newsletter input{
+padding:15px;
+width:60%;
+max-width:450px;
+border:2px solid #1565c0;
+border-radius:8px;
+font-size:16px;
+}
+
+.newsletter button{
+padding:15px 25px;
+background:#1565c0;
+color:white;
+border:none;
+border-radius:8px;
+cursor:pointer;
+margin-left:10px;
+}
