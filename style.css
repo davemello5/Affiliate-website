@@ -287,3 +287,37 @@ font-weight:bold;
 footer a:hover{
 text-decoration:underline;
    }
+.header{
+    background:#111827;
+    padding:20px 0;
+}
+
+.header .container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+.logo h1{
+    color:white;
+    font-size:32px;
+}
+
+.header nav ul{
+    display:flex;
+    gap:20px;
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+.header nav a{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.header nav a:hover{
+    color:#4fc3f7;
+}
